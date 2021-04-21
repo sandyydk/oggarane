@@ -17,7 +17,7 @@ jobs:
       - name: Fetching Google Analytics ID
         uses: microsoft/variable-substitution@v1
         with:
-          files: 'config.yaml'
+          files: 'config.toml'
         env:
             googleAnalytics: ${{ secrets.GOOGLE_ID }}
 
