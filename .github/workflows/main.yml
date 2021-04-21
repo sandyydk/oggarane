@@ -3,7 +3,7 @@ name: ci
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
@@ -39,7 +39,7 @@ jobs:
         with: 
           azcliversion: 2.18.0
           inlineScript: |
-              az storage blob upload-batch --account-name sandyportfolio -d '$web' -s ./public
+              az storage blob upload-batch --account-name oggarane -d '$web' -s ./public
 
       - name: Azure CLI Logout
         run: |
