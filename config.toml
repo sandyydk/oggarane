@@ -5,7 +5,7 @@ theme = "futureimperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "oggarane"
-googleAnalytics = "G-BM0665T726"
+googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
