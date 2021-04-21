@@ -1,5 +1,5 @@
-[submodule "hugo-future-imperfect"]
-	path = hugo-future-imperfect
+[submodule "themes/futureimperfect"]
+	path = themes/futureimperfect
 	url = https://github.com/jpescador/hugo-future-imperfect.git
 [submodule "themes/blog"]
 	path = themes/blog
