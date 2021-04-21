@@ -18,19 +18,19 @@ type = "post"
 
 > Health benefits: Made from wheat with less oil.
 
- >  **INGREDIENTS**   
- 1.Wheat flour -2 cups  
- 2.Sugar powder -1.25 cup  
- 3.Salt- 1/4 spoon  
- 4.Choco Powder- 1/2 cup  
- 5.Baking Powder- 1/2 spoon  
- 6.Baking Soda- 1/4 spoon  
- 7.Vanilla Essence- 1 spoon(optional)  
- 8.Milk Powder- 2 spoon  
- 9.Curd/Buttermilk- 1/2 cup  
- 10.Oil/Butter/Ghee- 3/4 cup  
- 11.Chocho chip/Dry fruits for garnishing  
- 12.Aluminium Cake tray and cooker  
+**INGREDIENTS**   
+ 1. Wheat flour -2 cups  
+ 2. Sugar powder -1.25 cup  
+ 3. Salt- 1/4 spoon  
+ 4. Choco Powder- 1/2 cup  
+ 5. Baking Powder- 1/2 spoon  
+ 6. Baking Soda- 1/4 spoon  
+ 7. Vanilla Essence- 1 spoon(optional)  
+ 8. Milk Powder- 2 spoon  
+ 9. Curd/Buttermilk- 1/2 cup  
+ 10. Oil/Butter/Ghee- 3/4 cup  
+ 11. Chocho chip/Dry fruits for garnishing  
+ 12. Aluminium Cake tray and cooker  
 
  **Baking Time**: 30 min in Cooker / 40 min in oven
 
