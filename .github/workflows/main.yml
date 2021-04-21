@@ -15,11 +15,11 @@ jobs:
           submodules: true
           fetch-depth: 0
       - name: Fetching Google Analytics ID
-        uses: microsoft/variable-substitution@v1
+        uses: ciiiii/toml-editor@1.0.0
         with:
-          files: 'config.toml'
-        env:
-            googleAnalytics: ${{ secrets.GOOGLE_ID }}
+          file: 'config.yaml'
+          key: "googleAnalytics"
+          value: ${{ secrets.GOOGLE_ID }}
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
