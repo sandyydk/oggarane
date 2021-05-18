@@ -1,7 +1,7 @@
 +++
 author = "Bhashya"
 categories = ["momos","indochinese","steamed momos"]
-date = "2021-05-19T20:00:07+05:30"
+date = "2021-05-18T20:00:07+05:30"
 description = "Yummy Tibetian Momos"
 featured = ""
 featuredalt = ""
