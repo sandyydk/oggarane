@@ -2,17 +2,17 @@
 author = "Bhashya"
 categories = ["momos","indochinese","steamed momos"]
 date = "2021-05-18T20:00:07+05:30"
-description = "Yummy Tibetian Momos"
+description = "Yummy Steamed Momos"
 featured = ""
 featuredalt = ""
 featuredpath = ""
-linktitle = "Tibetian Momos"  
-title = "TIBETIAN MOMOS"  
+linktitle = "Steamed Momos"  
+title = "STEAMED MOMOS"  
 type = "post"
 
 +++
 
-## MOMOS
+## STEAMED MOMOS
 
 Momo is a type of East and South Asian steamed filled dumpling. Momo is native to Tibet, Nepal, Bhutan as well as Indian Himalayan Region of Ladakh, Sikkim, Assam, and Arunachal Pradesh, Himachal Pradesh, Uttarakhand, and Darjeeling. Momo is heavily influenced by cuisine of the Indian subcontinent with South Asian spices and herbs. Momo are extremely popular and can be found in every kind of shop from restaurants to street vendors.In many article it is found to be introduced as indian dish but it is one of the dish of Newar community of Nepal.
 
